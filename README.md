@@ -15,6 +15,3 @@
 <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br>
-<p>🖥️ Técnico em Programação</p>
-
-📚 Senac - 9/2021 - 3/2023
